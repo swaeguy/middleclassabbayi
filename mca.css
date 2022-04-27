@@ -1,0 +1,18 @@
+@media screen and (max-width:750px){
+  @media only screen and (max-width: 620px){
+      
+      .gif{
+          background-image: url(ezgif-1-900a4046b6.gif);
+          height: 100vh;
+      }   
+      
+    }
+
+ .gif{
+          background-image: url(ezgif-1-900a4046b6.gif);
+     background-position: center;
+     height: 100vh;
+     background-repeat: no-repeat;
+     background-size: contain;
+      }   
+      
